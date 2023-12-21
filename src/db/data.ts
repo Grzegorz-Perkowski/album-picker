@@ -858,7 +858,7 @@ const data = [
   {
     Rank: 393,
     Artist: "Taylor Swift",
-    Album: 1989,
+    Album: "1989",
     Info: "Big Machine, 2014",
     Description:
       "Swift set out to make “blatant pop music” on 1989 and came up with a love letter to the Pet Shop Boys and Eurythmics, all glossy synths, icy snares, and the manic rush of “Blank Space” and “Bad Blood.” She ends the album with the electro-chill of “Clean,” one of her starkest, grandest romantic exorcisms, comparing love’s memory to “a wine-stained dress I can’t wear anymore” and unspooling images of drowning and surviving that can bring to mind another Eighties hero, Kate Bush.",
@@ -2906,7 +2906,7 @@ const data = [
   {
     Rank: 137,
     Artist: "Adele",
-    Album: 21,
+    Album: "21",
     Info: "Columbia, 2011",
     Description:
       "“Pain is art” may be a cliché, but for Adele, it rang especially true. Her debut album, 19, was a polite, tasteful set of soul-inflected pop. Its follow-up was something else again. Chewing over a tumultuous affair, she dug deep and came up with a modern masterpiece of post-breakup soul music. She’d actually cut an entire album with producer Rick Rubin but wound up preferring earlier demos of songs like “Rolling in the Deep,” “Someone Like You,” and “Set Fire to the Rain,” and mostly used those instead. The switch-up made for an even rawer and more emotional experience that clearly connected: 21 sold more than 30 million copies and swept the 2012 Grammys.",
@@ -2962,7 +2962,7 @@ const data = [
   {
     Rank: 130,
     Artist: "Prince",
-    Album: 1999,
+    Album: "1999",
     Info: "Warner Bros., 1982",
     Description:
       "“I didn’t want to do a double album,” Prince said, “but I just kept on writing. Of course, I’m not one for editing.” The second half of 1999 is just exceptional sex-obsessed dance music; the first half is the best fusion of rock and funk achieved to that date, and it lays out the blueprint for Prince’s next decade. Except for a few background hand claps and vocals, Prince plays most every instrument himself and creates a relentless, irresistible musical sequence of apocalypse (“1999”) and the raunchy sex that he proposes as the only possible response — “Little Red Corvette,” “Let’s Pretend We’re Married,” “Delirious,” and, well, just about every other song on the album.",
